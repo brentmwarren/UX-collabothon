@@ -1,3 +1,10 @@
 body{
-  background: red;
+  background: white;
+}
+
+footer { 
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  background-color: gray;
 }
